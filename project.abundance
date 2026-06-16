@@ -4,6 +4,12 @@
   "y": 0,
   "uniqueID": "id-5204",
   "name": "L-bracket",
+  "ioValues": [
+    {
+      "name": "Input",
+      "ioValue": 10
+    }
+  ],
   "topLevel": true,
   "allAtoms": [
     {
@@ -195,8 +201,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.6660761736049602,
-      "y": 0.3283582089552239,
+      "x": 0.662533215234721,
+      "y": 0.33432835820895523,
       "uniqueID": "id-5245",
       "name": "Fillet-",
       "ioValues": [
@@ -340,6 +346,12 @@
       "unitsKey": "MM",
       "fileTypeVersion": 1,
       "lastReloadedFromGithubAt": 1781628541065
+    },
+    {
+      "atomType": "Input",
+      "x": 0.021449999999999997,
+      "y": 0.13,
+      "uniqueID": "id-5264"
     }
   ],
   "allConnectors": [
